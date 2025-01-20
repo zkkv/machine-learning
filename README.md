@@ -30,3 +30,9 @@ This will install all the project's dependencies and put them in a virtual envir
 - **Jupyter Lab**
 	1. Run `poetry run jupyter lab`. This will open Jupyter GUI in a browser.
 	2. Choose a notebook and select the kernel in the top right corner.
+
+## License
+The contents of this repository, including the source code and explanations in the notebooks, are licensed under [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/). All dependencies are licensed under their respective licenses.
+
+## Author
+Developed by zkkv, 2025
