@@ -4,7 +4,7 @@ Implementation of various machine learning algorithms, from scratch and with exp
 
 ## Installation
 
-You will require Poetry build system and dependency management tool. The recommended version is 2.0.0. 
+You will require Poetry dependency manager. The recommended version is 2.0.0. 
 
 Install Poetry in your preferred way. Then, clone the project and run:
 
